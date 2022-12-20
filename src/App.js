@@ -8,6 +8,7 @@ export default function App() {
     <div className="App">
       <Todo />
       <Counter />
+      <Counter />
     </div>
   );
   // YOU ARE LEAVING JSX
